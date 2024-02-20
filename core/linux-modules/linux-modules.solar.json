@@ -1,0 +1,34 @@
+{
+  "name": "linux-modules",
+  "version": {
+    "major": 6,
+    "minor": 7,
+    "patch": 4
+  },
+  "author": "Eclipse",
+  "type": "br",
+  "download": "registry",
+  "compressed": {
+    "value": "4.8",
+    "unit": "m"
+  },
+  "uncompressed": {
+    "value": "33.3",
+    "unit": "m"
+  },
+  "checksum": "",
+  "pkgInfo": {
+    "name": "Linux modules",
+    "description": "Driver modules for the latest release of the Linux kernel",
+    "version": "6.7.4",
+    "gitUrl": "https://github.com/torvalds/linux",
+    "siteUrl": "https://kernel.org",
+    "license": "GPL2",
+    "creator": "Linus Torvalds",
+    "contributors": []
+  },
+  "dependencies": {},
+  "breaks": {},
+  "conflicts": {},
+  "replaces": {}
+}

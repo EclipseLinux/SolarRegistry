@@ -1,0 +1,36 @@
+{
+  "name": "linux-headers",
+  "version": {
+    "major": 6,
+    "minor": 7,
+    "patch": 4
+  },
+  "author": "Eclipse",
+  "type": "br",
+  "download": "registry",
+  "compressed": {
+    "value": "4.8",
+    "unit": "m"
+  },
+  "uncompressed": {
+    "value": "6.6",
+    "unit": "m"
+  },
+  "checksum": "",
+  "pkgInfo": {
+    "name": "Linux kernel headers",
+    "description": "Header files for the latest release of the Linux kernel",
+    "version": "6.7.4",
+    "gitUrl": "https://github.com/torvalds/linux",
+    "siteUrl": "https://kernel.org",
+    "license": "GPL2",
+    "creator": "Linus Torvalds",
+    "contributors": []
+  },
+  "dependencies": {
+    "linux": "^6.7.4"
+  },
+  "breaks": {},
+  "conflicts": {},
+  "replaces": {}
+}
