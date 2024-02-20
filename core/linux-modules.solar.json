@@ -16,7 +16,7 @@
     "value": "33.3",
     "unit": "m"
   },
-  "checksum": "",
+  "checksum": "6e8e9bac7d19d3c8f29ec3906ce2efcbb48aea961d4ec01d902ee7a57d11f37a649d633da9bd6868f36bdb30071e09c7dce17f803ac76b18fddae0592bbbeb12",
   "pkgInfo": {
     "name": "Linux modules",
     "description": "Driver modules for the latest release of the Linux kernel",
