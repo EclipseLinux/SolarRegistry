@@ -4,14 +4,8 @@
   "author": "Eclipse",
   "type": "br",
   "download": "registry",
-  "compressed": {
-    "value": "4.8",
-    "unit": "m"
-  },
-  "uncompressed": {
-    "value": "6.6",
-    "unit": "m"
-  },
+  "compressed": 4800000,
+  "uncompressed": 6600000,
   "checksum": "f3d32639f938ee0d1731ffd68f206afcdf8365998a2673f9e5521596b11eea62fd0335963a6b1ec0280ebca42912516f738f0e4b8e49bd429f67d3a19cf03a54",
   "pkgInfo": {
     "name": "Linux kernel headers",
