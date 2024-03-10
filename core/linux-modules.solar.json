@@ -27,8 +27,9 @@
     "creator": "Linus Torvalds",
     "contributors": []
   },
-  "dependencies": {},
-  "breaks": {},
-  "conflicts": {},
-  "replaces": {}
+  "dependencies": [],
+  "breaks": [],
+  "conflicts": [],
+  "replaces": [],
+  "optionalDeps": []
 }
