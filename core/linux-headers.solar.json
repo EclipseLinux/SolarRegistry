@@ -27,10 +27,9 @@
     "creator": "Linus Torvalds",
     "contributors": []
   },
-  "dependencies": {
-    "linux": "^6.7.4"
-  },
-  "breaks": {},
-  "conflicts": {},
-  "replaces": {}
+  "dependencies": ["linux"],
+  "breaks": [],
+  "conflicts": [],
+  "replaces": [],
+  "optionalDeps": []
 }
