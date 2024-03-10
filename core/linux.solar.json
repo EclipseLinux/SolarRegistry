@@ -4,14 +4,8 @@
   "author": "Eclipse",
   "download": "registry",
   "type": "br",
-  "compressed": {
-    "value": "12.4",
-    "unit": "m"
-  },
-  "uncompressed": {
-    "value": "13.3",
-    "unit": "m"
-  },
+  "compressed": 12400000,
+  "uncompressed": 13300000,
   "checksum": "52dec2246f19509287ae53b7720c0b63512fd7f2e938c6e53f9bf191031bd96c692ab198396cfbf7ce503696652e8caf9ae9c14009947339732ad51a9479f3d1",
   "pkgInfo": {
     "name": "Linux",
